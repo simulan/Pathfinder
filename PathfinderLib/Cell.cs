@@ -1,6 +1,6 @@
 ﻿public enum Cell : int {
-    START,
-    OPEN,
-    CLOSED,
-    END
+    Start,
+    Open,
+    Closed,
+    End
 };

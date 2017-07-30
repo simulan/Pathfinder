@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="Cell.cs" />
     <Compile Include="Labyrinth.cs" />
+    <Compile Include="LabyrinthValidator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
