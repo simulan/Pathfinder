@@ -1,0 +1,9 @@
+C:\Work\My CSharp\Pathfinder\PathfinderTest\bin\Debug\PathfinderTest.dll
+C:\Work\My CSharp\Pathfinder\PathfinderTest\bin\Debug\PathfinderTest.pdb
+C:\Work\My CSharp\Pathfinder\PathfinderTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Work\My CSharp\Pathfinder\PathfinderTest\bin\Debug\PathfinderLib.dll
+C:\Work\My CSharp\Pathfinder\PathfinderTest\bin\Debug\PathfinderLib.pdb
+C:\Work\My CSharp\Pathfinder\PathfinderTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Work\My CSharp\Pathfinder\PathfinderTest\obj\Debug\PathfinderTest.csprojResolveAssemblyReference.cache
+C:\Work\My CSharp\Pathfinder\PathfinderTest\obj\Debug\PathfinderTest.dll
+C:\Work\My CSharp\Pathfinder\PathfinderTest\obj\Debug\PathfinderTest.pdb

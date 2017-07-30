@@ -1,0 +1,5 @@
+C:\Work\My CSharp\Pathfinder\PathfinderLib\bin\Debug\PathfinderLib.dll
+C:\Work\My CSharp\Pathfinder\PathfinderLib\bin\Debug\PathfinderLib.pdb
+C:\Work\My CSharp\Pathfinder\PathfinderLib\obj\Debug\PathfinderLib.csprojResolveAssemblyReference.cache
+C:\Work\My CSharp\Pathfinder\PathfinderLib\obj\Debug\PathfinderLib.dll
+C:\Work\My CSharp\Pathfinder\PathfinderLib\obj\Debug\PathfinderLib.pdb

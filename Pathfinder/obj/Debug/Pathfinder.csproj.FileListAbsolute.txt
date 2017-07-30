@@ -1,0 +1,9 @@
+c:\users\vdb\documents\visual studio 2015\Projects\Pathfinder\Pathfinder\bin\Debug\Pathfinder.exe.config
+C:\Work\My CSharp\Pathfinder\Pathfinder\bin\Debug\Pathfinder.exe.config
+C:\Work\My CSharp\Pathfinder\Pathfinder\bin\Debug\Pathfinder.exe
+C:\Work\My CSharp\Pathfinder\Pathfinder\bin\Debug\Pathfinder.pdb
+C:\Work\My CSharp\Pathfinder\Pathfinder\bin\Debug\PathfinderLib.dll
+C:\Work\My CSharp\Pathfinder\Pathfinder\bin\Debug\PathfinderLib.pdb
+C:\Work\My CSharp\Pathfinder\Pathfinder\obj\Debug\Pathfinder.csprojResolveAssemblyReference.cache
+C:\Work\My CSharp\Pathfinder\Pathfinder\obj\Debug\Pathfinder.exe
+C:\Work\My CSharp\Pathfinder\Pathfinder\obj\Debug\Pathfinder.pdb
