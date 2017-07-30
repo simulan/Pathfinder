@@ -8,13 +8,13 @@ namespace PathfinderLib
 {
     public class Labyrinth
     {
-        public Labyrinth(int w,int h,int[] values) {
-            this.w = w;
-            this.h = h;
-            this.values = values;
+        public Labyrinth(int w,int h,Cell[] cells) {
+            this.Width = w;
+            this.Height = h;
+            this.Cells = cells;
         }
-        public int w { get; set; }
-        public int h { get; set; }
-        public int[] values { get; set; }
+        public int Width { get; set; }
+        public int Height { get; set; }
+        public Cell[] Cells { get; set; }
     }
 }

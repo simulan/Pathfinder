@@ -1,6 +1,6 @@
-﻿public enum LabyrinthCells : int {
+﻿public enum Cell : int {
     START,
     OPEN,
     CLOSED,
     END
-}
+};
