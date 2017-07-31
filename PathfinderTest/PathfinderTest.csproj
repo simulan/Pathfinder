@@ -51,6 +51,8 @@
   </Choose>
   <ItemGroup>
     <Compile Include="LabyrinthTest.cs" />
+    <Compile Include="LabyrinthValidatorTest.cs" />
+    <Compile Include="PathfinderTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

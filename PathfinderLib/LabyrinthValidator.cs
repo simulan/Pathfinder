@@ -9,6 +9,10 @@ namespace PathfinderLib {
         public static bool IsValid(Labyrinth labyrinth) {
             return (HasValidDimensions(labyrinth) && HasStartAndEnd(labyrinth));
         }
+        private static bool HasValidDimensions(Labyrinth labyrinth) {
+            int expected = labyrinth.Height * labyrinth.Width;
+            return expected == labyrinth.Cells.Count();
+        }
         private static bool HasStartAndEnd(Labyrinth labyrinth) {
             int starts = 0;
             int ends = 0;
@@ -18,9 +22,5 @@ namespace PathfinderLib {
             }
             return starts == 1 && ends == 1;
         }
-        private static bool HasValidDimensions(Labyrinth labyrinth) {
-            int expected = labyrinth.Height * labyrinth.Width;
-            return expected == labyrinth.Cells.Count();
-        } 
     }
 }

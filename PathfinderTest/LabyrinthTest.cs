@@ -18,13 +18,5 @@ namespace PathfinderTest {
             });
             Assert.IsNotNull(l);
         }
-        [TestMethod]
-        public void ValidateLabyrinth() {
-            Labyrinth l = new Labyrinth(2, 2, new Cell[] {
-                Cell.Start,Cell.Closed,
-                Cell.End,Cell.Closed
-            });
-            Assert.IsTrue(LabyrinthValidator.IsValid(l));
-        }
     }
 }
